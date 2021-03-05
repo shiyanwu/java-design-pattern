@@ -1,0 +1,9 @@
+/Users/shiyanwu/Documents/workspaces/gitHub_workspace/java-design-pattern/src/main/java/singleton/SingletonContainer.java
+/Users/shiyanwu/Documents/workspaces/gitHub_workspace/java-design-pattern/src/main/java/singleton/SingletonDoubleCheckLazyLoading.java
+/Users/shiyanwu/Documents/workspaces/gitHub_workspace/java-design-pattern/src/main/java/singleton/SingletonLazyLoadingSynchronized.java
+/Users/shiyanwu/Documents/workspaces/gitHub_workspace/java-design-pattern/src/main/java/singleton/SingletonNoneLazyLoading2.java
+/Users/shiyanwu/Documents/workspaces/gitHub_workspace/java-design-pattern/src/main/java/singleton/SingletonEnum.java
+/Users/shiyanwu/Documents/workspaces/gitHub_workspace/java-design-pattern/src/main/java/singleton/SingletonNoneLazyLoading.java
+/Users/shiyanwu/Documents/workspaces/gitHub_workspace/java-design-pattern/src/main/java/singleton/ThreadLocalInstance.java
+/Users/shiyanwu/Documents/workspaces/gitHub_workspace/java-design-pattern/src/main/java/singleton/SingletonLazyLoading.java
+/Users/shiyanwu/Documents/workspaces/gitHub_workspace/java-design-pattern/src/main/java/singleton/SingletonStaticInnerClassLazyLoading.java
