@@ -23,6 +23,7 @@
 hs_err_pid*
 
 # 忽略idea 工程信息
-./.idea
-./target
-./singleton_file
+.idea
+target
+singleton_file
+*.iml
