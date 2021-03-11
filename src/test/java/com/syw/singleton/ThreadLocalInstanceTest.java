@@ -1,4 +1,4 @@
-package singleton;
+package com.syw.singleton;
 
 import org.junit.jupiter.api.Test;
 

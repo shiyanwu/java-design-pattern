@@ -1,4 +1,4 @@
-package singleton;
+package com.syw.singleton;
 
 /**
  * <p>

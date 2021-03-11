@@ -1,4 +1,4 @@
-package singleton;
+package com.syw.singleton;
 
 /**
  * 双重检查锁单例-线程安全-Lazy loading

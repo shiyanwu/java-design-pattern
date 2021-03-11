@@ -1,4 +1,4 @@
-package singleton;
+package com.syw.singleton;
 
 import java.lang.reflect.Constructor;
 import java.lang.reflect.InvocationTargetException;

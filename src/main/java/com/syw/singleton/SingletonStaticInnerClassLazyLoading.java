@@ -1,4 +1,4 @@
-package singleton;
+package com.syw.singleton;
 
 /**
  * 通过静态内部类方式单例-线程安全--Lazy loading

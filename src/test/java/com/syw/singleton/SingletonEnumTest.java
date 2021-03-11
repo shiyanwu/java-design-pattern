@@ -1,4 +1,4 @@
-package singleton;
+package com.syw.singleton;
 
 import java.io.File;
 import java.io.FileInputStream;

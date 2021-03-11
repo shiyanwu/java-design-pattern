@@ -1,4 +1,4 @@
-package singleton;
+package com.syw.singleton;
 
 /**
  * SingletonNoneLazyLoading的另外一种写法

@@ -1,4 +1,4 @@
-package singleton;
+package com.syw.singleton;
 
 /**
  * 懒汉式单例-线程安全-Lazy loading
