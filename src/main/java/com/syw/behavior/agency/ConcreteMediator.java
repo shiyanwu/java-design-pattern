@@ -5,7 +5,7 @@ import java.util.List;
 
 /**
  * <p>
- * 功能描述
+ * 中介者实现类
  * <p/>
  *
  * @author shiyanwu
