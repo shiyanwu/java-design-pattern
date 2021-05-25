@@ -4,7 +4,7 @@ import java.util.List;
 
 /**
  * <p>
- * 功能描述
+ * 购物车实现类
  * <p/>
  *
  * @author shiyanwu
