@@ -35,7 +35,7 @@ class GoodsIteratorImplTest {
 
         shoppingCart.removeGoods(goods4);
         shoppingCart.removeGoods(goods5);
-        System.out.println("----删除操作之后的购物清单----");
+        System.out.println("----舍弃后的购物清单----");
         printGoods(shoppingCart);
 
     }
