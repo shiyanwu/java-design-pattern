@@ -15,7 +15,7 @@ class ComputerTest {
 
     @Test
     void test(){
-        Computer computer = new Computer(new CPU("Intel Corei7-620"), new HardDisk("Seagate 500G 7200转"));
+        Computer computer = new Computer(new CPU("Intel Core i7-620"), new HardDisk("Seagate 500G 7200转"));
         ComputerVisitor typeVisitor = new TypeVisitor();
         ComputerVisitor runVisitor = new RunVisitor();
         computer.accept(typeVisitor);
