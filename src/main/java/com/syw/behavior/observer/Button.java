@@ -45,11 +45,8 @@ public class Button implements Clickable {
 
     @Override
     public String toString() {
-        return "Button{" +
-                "observerList=" + observerList +
-                ", 颜色：'" + color + '\'' +
+        return "按键颜色：'" + color + '\'' +
                 ", 坐标：x=" + x +
-                ", y=" + y +
-                '}';
+                ", y=" + y;
     }
 }
